@@ -13,5 +13,5 @@ export default {
   future: {
     hoverOnlyWhenSupported: true,
   },
-  plugins: [typography],
+  plugins: [typography, require("daisyui")],
 } satisfies Config;

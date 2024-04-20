@@ -2,7 +2,7 @@
  * Demo data used as placeholders and initial values for the blog
  */
 
-export const title = "Blog. Hi Chelsea! ❤️";
+export const title = "📓 Chelsea Erhard's Portfolio";
 
 export const description = [
   {

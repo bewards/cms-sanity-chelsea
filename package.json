@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "@next/env": "latest",
+    "daisyui": "^4.10.2",
     "eslint": "^8.57.0",
     "eslint-config-next": "latest"
   }
